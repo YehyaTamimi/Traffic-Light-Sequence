@@ -1,5 +1,8 @@
 # Traffic-Light-Sequence
 
+# Live Demo 
+a live demo of the website can be accessed [Here](https://yehyatamimi.github.io/Traffic-Light-Sequence/)
+
 # What is a callback function in JavaScript?
 
 A callback function is a function passed as an argument inside another function. It's used asynchronously in JavaScript by passing it as an argument for functions waiting for an event to occur or a result obtained. This allows the callback function to be called only when the event happens without blocking other functionalities.
@@ -45,6 +48,8 @@ callingFunction(() => {
 # What is the "callback hell" problem, and how can it be mitigated?
 
 "callback hell" is a term given to a situation where many asynchronous callback functions are nested inside each other, making the code harder to read, debug and maintain. 
+
+#Live Demo 
 
 there are several ways to mitigate "callback hell", some of these are: 
 
