@@ -49,8 +49,6 @@ callingFunction(() => {
 
 "callback hell" is a term given to a situation where many asynchronous callback functions are nested inside each other, making the code harder to read, debug and maintain. 
 
-#Live Demo 
-
 there are several ways to mitigate "callback hell", some of these are: 
 
 1. split the callbacks into modular functions that have specific functionalities and handle single asynchrouns tasks.
